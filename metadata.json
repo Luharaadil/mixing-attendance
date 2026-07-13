@@ -1,0 +1,6 @@
+{
+  "name": "Shift Attendance & Leave Planner",
+  "description": "Manage operator and leader shift schedules, track daily attendance with bulk actions, and process leave requests with admin authorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
